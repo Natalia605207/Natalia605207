@@ -38,4 +38,10 @@ I really love coding and try my best to create modern, easy-to-use websites and 
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VSCode Badge"/>
 </div>
 
+## My Stats:
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Natalia605207&theme=white&background=fbfbfb)](https://git.io/streak-stats)
+
+![Natalia605207 GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Natalia605207&show_icons=true) 
+
   
