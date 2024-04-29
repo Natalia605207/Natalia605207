@@ -34,6 +34,7 @@ I really love coding and try my best to create modern, easy-to-use websites and 
   <img src="https://img.shields.io/badge/green%20sock-88CE02?style=for-the-badge&logo=greensock&logoColor=white" alt="Green Sock Badge"/>
   <img src="https://img.shields.io/badge/netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=black" alt="Netlify Badge"/>
   <img src="https://img.shields.io/badge/glitch-%233333FF.svg?style=for-the-badge&logo=glitch&logoColor=white" alt="Glitch Badge"/> 
+  <img src="https://img.shields.io/badge/git-f34f29?style=for-the-badge&logo=git&logoColor=white" alt="Git Badge"/>
   <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VSCode Badge"/>
 </div>
