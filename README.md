@@ -1,4 +1,4 @@
-# Hi there! I'm Natalia 👋
+# Hi there! I'm Natalia <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>
 
 ### Web developer from Toronto, Canada
 
